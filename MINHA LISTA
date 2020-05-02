@@ -1,9 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,TNT
-https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_ee1def0fcf1d7a79520b7dd6049c5cac871038b9/playlist.m3u8
 #EXTINF:-1,Jumanji proxima fase
 http://udq.me:80/movie/935TE/WhjUZ/27620.mp4
-#EXTINF:-1,Jeca Tatu
-http://udq.me:80/movie/935TE/WhjUZ/27203.mp4
-
