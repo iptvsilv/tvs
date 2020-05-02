@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:Cartoon_Network_2010_logo.svg",Cartoon Network
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_bbe5d881b7f891cddfa5fb7462f82df942f7719e/playlist.m3u8
