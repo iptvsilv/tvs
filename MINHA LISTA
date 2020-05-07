@@ -1,4 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://capas-silver.com/wp-content/uploads/1-CARROS-3-2017.jpg",CARROS 3
-http://udq.me:80/movie/QRmf7/ENJbh/27288.mp4
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ" group-title="CANAIS ABERTOS",GLOBO RIO
+http://cdn.cracklevideos.cf:80/live/globorj/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="CANAIS ABERTOS",SBT 
+http://cdn.cracklevideos.cf:80/live/sbtsp/playlist.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NERWORK" group-title="CANAIS INFANTIL",Cartoon Network
+http://cdn.cracklevideos.cf:80/live/cartoonnetwork/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " group-title=" ",
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " group-title=" ",
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " group-title=" ",
