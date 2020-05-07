@@ -2,10 +2,12 @@
 
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ" group-title="CANAIS ABERTOS",GLOBO RIO
 http://cdn.cracklevideos.cf:80/live/globorj/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="CANAIS ABERTOS",SBT 
 http://cdn.cracklevideos.cf:80/live/sbtsp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NERWORK" group-title="CANAIS INFANTIS",Cartoon Network
 http://cdn.cracklevideos.cf:80/live/cartoonnetwork/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" group-title="CANAIS INFANTIS",gloob Hd
 http://cdn.cracklevideos.cf:80/live/gloob/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " group-title=" ",
